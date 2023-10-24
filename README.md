@@ -1,1 +1,31 @@
 # intent-identification-for-virtual-assistant
+dataset used----> https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants
+Trained and fine tuned on: Deberta-base
+Accuracy: 99.6
+classes/labels/intents = ['check_cancellation_fee',
+ 'review',
+ 'create_account',
+ 'complaint',
+ 'delivery_options',
+ 'payment_issue',
+ 'recover_password',
+ 'delivery_period',
+ 'place_order',
+ 'check_payment_methods',
+ 'set_up_shipping_address',
+ 'edit_account',
+ 'track_order',
+ 'change_order',
+ 'track_refund',
+ 'cancel_order',
+ 'contact_customer_service',
+ 'switch_account',
+ 'change_shipping_address',
+ 'newsletter_subscription',
+ 'contact_human_agent',
+ 'get_refund',
+ 'check_invoices',
+ 'registration_problems',
+ 'check_refund_policy',
+ 'get_invoice',
+ 'delete_account']
