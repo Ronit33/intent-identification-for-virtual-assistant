@@ -1,7 +1,7 @@
 # intent-identification-for-virtual-assistant
-dataset used----> https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants
-Trained and fine tuned on: Deberta-base
-Accuracy: 99.6
+## dataset used----> https://www.kaggle.com/datasets/bitext/training-dataset-for-chatbotsvirtual-assistants
+## Trained and fine tuned on: Deberta-base
+## Accuracy: 99.6
 classes/labels/intents = ['check_cancellation_fee',
  'review',
  'create_account',
